@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Data login Facebook</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>bdeb128f-6870-4b62-b5f1-fb86a6b3c072</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>logaml2222%40gmail.com mintul2222 We+received+your+information</data>
+   <data>logaml2222%40gmail.com null The+password+that+you%27ve+entered+is+incorrect</data>
+   <data>null mintul2222 The+email+address+or+mobile+number+you+entered+isn%27t+connected+to+an+account</data>
+   <data>null null The+email+address+or+mobile+number+you+entered+isn%27t+connected+to+an+account</data>
+   <data>1234567890 null The+email+address+or+mobile+number+you+entered+isn%27t+connected+to+an+account</data>
+   <data>1234567890 mintul2222 Sorry%2C+something+went+wrong</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>T_email</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>T_password</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>T_result</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
