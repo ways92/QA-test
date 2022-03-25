@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Facebook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e471cd1-04ff-489c-b81f-e7c615a40981</testCaseGuid>
+   <variable>
+      <defaultValue>'logaml2222@gmail.com'</defaultValue>
+      <description></description>
+      <id>bda4303f-6959-4164-af63-074f8287e00c</id>
+      <masked>false</masked>
+      <name>T_email</name>
+   </variable>
+   <variable>
+      <defaultValue>'mintul2222'</defaultValue>
+      <description></description>
+      <id>8a0cfa4c-000c-45c0-a673-c621d10ec86b</id>
+      <masked>false</masked>
+      <name>T_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'We received your information'</defaultValue>
+      <description></description>
+      <id>191fca93-ffd7-4928-bf52-bb17b92bb20c</id>
+      <masked>false</masked>
+      <name>T_result</name>
+   </variable>
+</TestCaseEntity>
